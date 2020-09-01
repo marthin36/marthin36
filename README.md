@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![marthin36 github stats](https://github-readme-stats.vercel.app/api?username=marthin36&show_icons=true&theme=radical)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
