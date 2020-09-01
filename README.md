@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marthin36" alt="marthin36" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthin36&layout=compact&hide=html" alt="marthin36" /></p>
 
 
 
@@ -24,7 +22,9 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer and Mobile Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Vue Js,Flutter,Kotlin**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marthin36" alt="marthin36" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthin36&layout=compact&hide=html" alt="marthin36" /></p>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
