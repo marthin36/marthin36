@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marthin36" alt="marthin36" /> </p>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthin36&layout=compact&hide=html" alt="marthin36" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marthin36&show_icons=true" alt="marthin36" /></p>
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 ![marthin36 github stats](https://github-readme-stats.vercel.app/api?username=marthin36&show_icons=true&theme=radical)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
