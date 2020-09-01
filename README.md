@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Marthin</h1>
-<h3 align="center">A passionate frontend developer and Mobile Developer from Indonesia</h3>
+<h3 align="center">A passionate   Mobile Developer and Frontend Developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Vue Js,Flutter,Kotlin**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marthin36" alt="marthin36" /> </p>
