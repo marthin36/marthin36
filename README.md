@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marthin36" alt="marthin36" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthin36&layout=compact&hide=html" alt="marthin36" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marthin36&show_icons=true" alt="marthin36" /></p>
 
 <h1 align="center">Hi 👋, I'm Marthin</h1>
 <h3 align="center">A passionate frontend developer and Mobile Developer from Indonesia</h3>
